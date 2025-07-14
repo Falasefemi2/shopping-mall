@@ -1,3 +1,0 @@
-### add item to cart
-POST http://localhost:8080/api/cart/add?userId=2&productId=3&quantity=10
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJST0xFX1VTRVIiXSwic3ViIjoiYWRtaW4iLCJpYXQiOjE3NTI0OTE4NDYsImV4cCI6MTc1MjQ5NTQ0Nn0.3pwMwm5czMRMq434rP7XKBxMOxB8d-p-Wz4yyPAwR2Q
