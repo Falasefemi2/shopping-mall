@@ -1,0 +1,6 @@
+###
+POST http://localhost:8080/api/cart/add?userId=1&productId=2&quantity=3
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUYXlvIiwiaWF0IjoxNzUyNDc1MzY2LCJleHAiOjE3NTI0Nzg5NjZ9.Xj8mPjG5umWqJ89xLtkyvWwCgNVAY8KnRS95bOgA1JM
+
+###
