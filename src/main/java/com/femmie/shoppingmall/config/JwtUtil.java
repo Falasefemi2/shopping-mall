@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 @Component
 public class JwtUtil {
-    private static final String SECRET_KEY = "OgRMgcWgyssuS8Ddps9n90eXrV4JNSPOzKGIAMrZQxA=\n";
+    private static final String SECRET_KEY = "your_secret_key";
     private static final long ACCESS_TOKEN_EXPIRATION = 1000 * 60 * 60; // 1 hour
     private static final long REFRESH_TOKEN_EXPIRATION = 1000 * 60 * 60 * 24 * 7; // 7 days
 
